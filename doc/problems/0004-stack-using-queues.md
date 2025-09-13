@@ -1,10 +1,10 @@
-### [0004] Stack Using Queues
+#### `[0004] Stack Using Queues`
 
-Tags:
-- [Stack](../13-stack.md)
-- [Queue](../14-queue.md)
+`Tags`:
+- [`Stack`](../13-stack.md)
+- [`Queue`](../14-queue.md)
 
-[Approach 1] - Using Two Queue - Push in O(n) and Pop() in O(1)
+`[Approach 1] - Using Two Queue - Push in O(n) and Pop() in O(1)`
 ```java
 class MyStack {
     Queue<Integer> q1 = new LinkedList<>();
@@ -39,7 +39,7 @@ class MyStack {
 }
 ```
 
-[Approach 2] - Using Two Queue - Push in O(1) and Pop() in O(n)
+`[Approach 2] - Using Two Queue - Push in O(1) and Pop() in O(n)`
 ```java
 class MyStack {
     Queue<Integer> q1 = new LinkedList<>();
@@ -74,7 +74,7 @@ class MyStack {
 }
 ```
 
-[Approach 3] - Using Single Queue - Push in O(n) and Pop() in O(1)
+`[Approach 3] - Using Single Queue - Push in O(n) and Pop() in O(1)`
 ```java
 class MyStack {
     Queue<Integer> q1 = new LinkedList<>();
