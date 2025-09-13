@@ -3,9 +3,9 @@
 [_Back to Data Structures and Algorithms_](../readme.md)
 
 #### Basics
-1. [Simple Array Implementation](problems/simple-array-implementation.md)
-2. [Circular Array Implementation](problems/circular-array-implementation.md)
-3. [Linked List Implementation]()
+1. [Simple Array Implementation](problems/queue-simple-array-implementation.md)
+2. [Circular Array Implementation](problems/queue-circular-array-implementation.md)
+3. [Linked List Implementation](problems/queue-linked-list-implementation.md)
 
 #### Easy Problems
 1. [Stack Using Queues]()

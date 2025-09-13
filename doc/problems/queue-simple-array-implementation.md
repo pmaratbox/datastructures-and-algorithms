@@ -1,8 +1,6 @@
-### Simple Array Implementation
+### Queue - Simple Array Implementation
 
 [_Back to Queue_](../14-queue.md)
-
-- java code:
 
 ```java
 public class Queue {
