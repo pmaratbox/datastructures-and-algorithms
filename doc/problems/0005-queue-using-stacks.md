@@ -5,7 +5,6 @@ Tags:
 - [Queue](../14-queue.md)
 
 [Approach 1] - By Making Enqueue Operation Costly
-
 ```java
  static class Queue {
     Stack<Integer> s1 = new Stack<>();

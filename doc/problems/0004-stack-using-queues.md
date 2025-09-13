@@ -5,7 +5,6 @@ Tags:
 - [Queue](../14-queue.md)
 
 [Approach 1] - Using Two Queue - Push in O(n) and Pop() in O(1)
-
 ```java
 class MyStack {
     Queue<Integer> q1 = new LinkedList<>();
