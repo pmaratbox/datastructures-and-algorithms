@@ -1,6 +1,6 @@
 ### Simple Array Implementation
 
-[_Back to Queue_](../15-queue.md)
+[_Back to Queue_](../14-queue.md)
 
 - java code:
 

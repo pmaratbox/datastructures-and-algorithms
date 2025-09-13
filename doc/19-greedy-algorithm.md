@@ -1,6 +1,6 @@
 ### Greedy Algorithm
 
-[_Back to GeeksForGeeks_](../readme.md)
+[_Back to Data Structures and Algorithms_](../readme.md)
 
 #### Basics
 #### Easy Problems
