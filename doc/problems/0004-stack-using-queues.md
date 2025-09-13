@@ -1,4 +1,4 @@
-### [0003] Stack Using Queues
+### [0004] Stack Using Queues
 
 Tags:
 - [Stack](../13-stack.md)
