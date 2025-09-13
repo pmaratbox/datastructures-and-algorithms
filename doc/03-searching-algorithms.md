@@ -10,7 +10,7 @@
 * [`Easy => [0027] Missing and Repeating in an Array`]()
 * [`Easy => [0028] Count 1's in a Sorted Binary Array`]()
 * [`Easy => [0029] Find k Kargest Elements in an Array`]()
-* [`Easy => [0030] Kth Smallest Element in a Row-Wise and Column-Sise Sorted 2D Array`]()
+* [`Easy => [0030] Kth Smallest Element in a Row-Wise and Column-Sise Sorted Matrix`]()
 * [`Easy => [0031] Ceiling in a Sorted Array`]()
 * [`Easy => [0032] Floor in a Sorted Array`]()
 * [`Easy => [0033] Bitonic Point - Maximum in Increasing Decreasing Array`]()
