@@ -1,6 +1,6 @@
 ### `Queue`
 
-[`_Back to Data Structures and Algorithms_`](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
 1. [`Easy => [0001] Simple Array Implementation`](problems/0001-queue-simple-array-implementation.md)
 2. [`Easy => [0002] Circular Array Implementation`](problems/0002-queue-circular-array-implementation.md)
