@@ -1,6 +1,8 @@
-### Queue - Circular Array Implementation
+### [0002] Queue - Circular Array Implementation
 
-[_Back to Queue_](../14-queue.md)
+Tags: 
+- [Array](../02-array.md)
+- [Queue](../14-queue.md) 
 
 ```java
 class Queue {

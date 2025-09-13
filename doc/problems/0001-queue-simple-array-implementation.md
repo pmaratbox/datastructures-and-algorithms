@@ -1,6 +1,8 @@
-### Queue - Simple Array Implementation
+### [0001] Queue - Simple Array Implementation
 
-[_Back to Queue_](../14-queue.md)
+Tags:
+- [Array](../02-array.md)
+- [Queue](../14-queue.md)
 
 ```java
 public class Queue {

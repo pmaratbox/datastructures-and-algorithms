@@ -1,6 +1,8 @@
-### Queue - Linked List Implementation
+### [0003] Queue - Linked List Implementation
 
-[_Back to Queue_](../14-queue.md)
+Tags:
+- [Array](../02-array.md)
+- [Linked List](../12-linked-list.md)
 
 ```java
 class Node {
@@ -12,7 +14,6 @@ class Node {
     }
 }
 
-// Queue class definition
 class Queue {
     private Node front;
     private Node rear;
@@ -24,16 +25,14 @@ class Queue {
         return front == null;
     }
     
-    public void enqueue(int new_data) {
-        Node new_node = new Node(new_data);
+    public void enqueue(int newData) {
+        Node newNode = new Node(newData);
         if (isEmpty()) {
-            front = rear = new_node;
-            printQueue();
+            front = rear = newNode;
             return;
         }
-        rear.next = new_node;
-        rear = new_node;
-        printQueue();
+        rear.next = newNode;
+        rear = newNode;
     }
     
     public void dequeue() {
@@ -43,7 +42,6 @@ class Queue {
         Node temp = front;
         front = front.next;
         if (front == null) rear = null;
-        printQueue();
     }
 }
 ```

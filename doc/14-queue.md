@@ -2,9 +2,9 @@
 
 [_Back to Data Structures and Algorithms_](../readme.md)
 
-1. [Easy => Simple Array Implementation](problems/queue-simple-array-implementation.md)
-2. [Easy => Circular Array Implementation](problems/queue-circular-array-implementation.md)
-3. [Easy => Linked List Implementation](problems/queue-linked-list-implementation.md)
+1. [Easy => [0001] Simple Array Implementation](problems/0001-queue-simple-array-implementation.md)
+2. [Easy => [0002] Circular Array Implementation](problems/0002-queue-circular-array-implementation.md)
+3. [Easy => [0003] Linked List Implementation](problems/0003-queue-linked-list-implementation.md)
 4. [Easy => Stack Using Queues]()
 5. [Easy => Queue Using Stacks]()
 6. [Easy => Level Order Traversal]()
