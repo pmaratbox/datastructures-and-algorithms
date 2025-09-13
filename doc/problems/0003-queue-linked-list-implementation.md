@@ -1,8 +1,8 @@
 ### [0003] Queue - Linked List Implementation
 
 Tags:
-- [Array](../02-array.md)
 - [Linked List](../12-linked-list.md)
+- [Queue](../14-queue.md)
 
 ```java
 class Node {

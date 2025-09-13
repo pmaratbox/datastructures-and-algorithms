@@ -5,7 +5,7 @@
 1. [Easy => [0001] Simple Array Implementation](problems/0001-queue-simple-array-implementation.md)
 2. [Easy => [0002] Circular Array Implementation](problems/0002-queue-circular-array-implementation.md)
 3. [Easy => [0003] Linked List Implementation](problems/0003-queue-linked-list-implementation.md)
-4. [Easy => Stack Using Queues]()
+4. [Easy => [0004] Stack Using Queues](problems/0004-stack-using-queues.md)
 5. [Easy => Queue Using Stacks]()
 6. [Easy => Level Order Traversal]()
 7. [Easy => BFS for a Graph]()
