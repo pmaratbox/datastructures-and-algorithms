@@ -1,6 +1,6 @@
-### Array
+### `Array`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
 #### Basics
 #### Basics Problems
