@@ -7,7 +7,7 @@
 3. [Easy => [0003] Linked List Implementation](problems/0003-queue-linked-list-implementation.md)
 4. [Easy => [0004] Stack Using Queues](problems/0004-stack-using-queues.md)
 5. [Easy => [0005] Queue Using Stacks](problems/0005-queue-using-stacks.md)
-6. [Easy => Level Order Traversal]()
+6. [Easy => [0006] Level Order Traversal](problems/0006-level-order-traversal-of-binary-tree.md)
 7. [Easy => BFS for a Graph]()
 8. [Easy => FIFO Page Replacement]()
 9. [Medium => K Queues in an Array]()
