@@ -2,10 +2,10 @@
 
 [_Back to Data Structures and Algorithms_](../readme.md)
 
-1. [Basic => [0008] Check Even or Odd](problems/0008-check-even-or-odd.md)
-2. [Basic => [0009] Multiplication Table](problems/0009-multiplication-table.md)
-3. [Basic => [0010] Sum of Naturals](problems/0010-find-sum.md)
-4. [Basic => [0011] Sum of Square Naturals](problems/0011-sum-of-squares-of-first-n-natural-numbers.md)
+1. [Basic => `[0008]` Check Even or Odd](problems/0008-check-even-or-odd.md)
+2. [Basic => `[0009]` Multiplication Table](problems/0009-multiplication-table.md)
+3. [Basic => `[0010]` Sum of Naturals](problems/0010-find-sum.md)
+4. [Basic => `[0011]` Sum of Square Naturals](problems/0011-sum-of-squares-of-first-n-natural-numbers.md)
 5. [Basic => Swap Two Numbers]()
 6. [Basic => Closest Number]()
 7. [Basic => Dice Problem]()
