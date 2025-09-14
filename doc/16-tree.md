@@ -7,7 +7,7 @@
 * [`=> [03] AVL Tree`](tree/03-avl-tree.md)
 * [`=> [04] Red-Black Tree`](tree/04-red-black-tree.md)
 * [`=> [05] Ternary Search Tree`](tree/05-ternary-search-tree.md)
-* [`=> [06] N-ary and Generic Tree`](tree/06-n-ary-and-generic-tree.md)
+* [`=> [06] N-ary or Generic Tree`](tree/06-n-ary-or-generic-tree.md)
 * [`=> [07] B Tree`](tree/07-b-tree.md)
 * [`=> [08] B+ Tree`](tree/08-b-plus-tree.md)
 * [`=> [09] Ternary Tree`](tree/09-ternary-tree.md)
