@@ -2,8 +2,8 @@
 
 [`Back to Data Structures and Algorithms`](../readme.md)
 
-* [`Easy -- [0001] Simple Array Implementation`](problems/0001-queue-simple-array-implementation.md)
-* [`Easy -- [0002] Circular Array Implementation`](problems/0002-queue-circular-array-implementation.md)
+* [`Easy -> [0001] Simple Array Implementation`](problems/0001-queue-simple-array-implementation.md)
+* [`Easy -> [0002] Circular Array Implementation`](problems/0002-queue-circular-array-implementation.md)
 * [`Easy -- [0003] Linked List Implementation`](problems/0003-queue-linked-list-implementation.md)
 * [`Easy -- [0004] Stack Using Queues`](problems/0004-stack-using-queues.md)
 * [`Easy -- [0005] Queue Using Stacks`](problems/0005-queue-using-stacks.md)

@@ -45,5 +45,5 @@ public class Queue {
     }
 }
 ```
-- Time complexity: dequeue O(n), everything else O(1)
+- Time complexity: O(1)
 - Space complexity: O(n)

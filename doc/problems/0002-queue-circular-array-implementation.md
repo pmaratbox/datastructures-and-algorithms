@@ -1,9 +1,13 @@
 ### [0002] Queue - Circular Array Implementation
 
-Tags: 
+#### `Task`
+Implement queue using circular array.
+
+#### `Tags` 
 - [Array](../02-array.md)
 - [Queue](../14-queue.md) 
 
+#### `Solution`
 ```java
 class Queue {
     private int[] arr;
