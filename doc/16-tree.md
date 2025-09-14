@@ -1,23 +1,17 @@
-### Tree
+### `Tree`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
-#### Basics
-#### Binary Tree
-#### Binary Search Tree
-#### AVL Tree
-#### Red-Black Tree
-#### Ternary Search Tree
-#### N-ary and Generic Tree
-#### B Tree
-#### B+ Tree
-#### Ternary Tree
-#### Interval Tree
-#### 2-3-4 Tree
-#### Segment Tree
-#### Binary Indexed Tree
-#### Trees vs Other Data Structures
-#### Comparison among different Tree Data Structures
-#### Easy Problems
-#### Medium Problems
-#### Harm Problems
+* [`=> [01] Binary Tree`]()
+* [`=> [02] Binary Search Tree`]()
+* [`=> [03] AVL Tree`]()
+* [`=> [04] Red-Black Tree`]()
+* [`=> [05] Ternary Search Tree`]()
+* [`=> [06] N-ary and Generic Tree`]()
+* [`=> [07] B Tree`]()
+* [`=> [08] B+ Tree`]()
+* [`=> [09] Ternary Tree`]()
+* [`=> [10] Interval Tree`]()
+* [`=> [11] 2-3-4 Tree`]()
+* [`=> [12] Segment Tree`]()
+* [`=> [13] Binary Indexed Tree`]()
