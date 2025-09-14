@@ -1,8 +1,9 @@
-#### `[0008] Check Even or Odd`
+### `[0008] Check Even or Odd`
 
-`Tags`:
+#### `Tags`:
 - [`Basics`](../01-basics.md)
 
+#### `Solution`
 ```java
 class Solution {
     boolean isEven(int n)

@@ -1,8 +1,9 @@
 ### [0010] Find Sum
 
-Tags:
+#### `Tags`
 - [Basics](../01-basics.md)
 
+#### `Solution`
 ```java
 class Solution {
      int findSum(int n){

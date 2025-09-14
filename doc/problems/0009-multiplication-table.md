@@ -1,12 +1,13 @@
 ### [0009] Multiplication Table
 
-Tags:
+#### `Tags`
 - [Basics](../01-basics.md)
 
+#### `Solution`
 ```java
 class Solution {
-    public void printTable(int n) {
-        for (int i = 1; i <= 10; ++i)
+    void printTable(int n) {
+        for (int i = 1; i <= 10; i++)
             System.out.println(n + " * " + i + " = " + n * i);
     }
 }

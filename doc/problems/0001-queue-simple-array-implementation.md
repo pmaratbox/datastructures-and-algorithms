@@ -1,13 +1,13 @@
 ### [0001] Queue - Simple Array Implementation
 
-##### `Task`
+#### `Task`
 Implement queue using array.
 
-##### `Tags`
+#### `Tags`
 - [`Array`](../02-array.md)
 - [`Queue`](../14-queue.md)
 
-##### `Solution`
+#### `Solution`
 ```java
 public class Queue {
     private int[] array;

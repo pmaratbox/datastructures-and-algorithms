@@ -4,7 +4,7 @@
 
 * [`Basic => [0008] Check Even or Odd`](problems/0008-check-even-or-odd.md)
 * [`Basic => [0009] Multiplication Table`](problems/0009-multiplication-table.md)
-* [`Basic => [0010] Sum of Naturals`](problems/0010-find-sum.md)
+* [`Basic => [0010] Sum of Naturals`](problems/0010-sum-of-naturals.md)
 * [`Basic => [0011] Sum of Square Naturals`](problems/0011-sum-of-squares-of-first-n-natural-numbers.md)
 * [`Basic => [0351] Swap Two Numbers`]()
 * [`Basic => [0352] Closest Number`]()
