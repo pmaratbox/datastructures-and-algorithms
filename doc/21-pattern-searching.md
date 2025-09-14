@@ -1,8 +1,6 @@
-### Pattern Searching
+### `Pattern Searching`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
-#### Important Pattern Searching Algorithms
-#### Basics
-#### Important Pattern Searching Algorithms
-#### Pattern Searching Problems
+* [`Basic => [0320] Naive Pattern Searching`]()
+
