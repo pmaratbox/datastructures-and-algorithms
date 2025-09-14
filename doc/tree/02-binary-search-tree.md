@@ -8,7 +8,7 @@
 * [`Basic => [0210] Minimum in a BST`]()
 * [`Basic => [0211] Maximum in a BST`]()
 * [`Basic => [0212] Floor in BST`]()
-* [`Basic => [0213] Ceil in BBST`]()
+* [`Basic => [0213] Ceil in BST`]()
 * [`Basic => [0214] Inorder Successor in BST`]()
 * [`Basic => [0215] Inorder Predecessor in BST`]()
 * [`Basic => [0216] Handling duplicates in BST`]()
