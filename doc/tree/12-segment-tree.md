@@ -9,4 +9,4 @@
 * [`Medium => [0265] Recursive Segment Tree`]()
 * [`Medium => [0266] Range Sum and Update in Array : Segment Tree Using Stack`]()
 * [`Medium => [0267] Dynamic Segment Trees`]()
-* [`Medium => [0268] `]()
+
