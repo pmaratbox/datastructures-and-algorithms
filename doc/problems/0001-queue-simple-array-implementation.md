@@ -1,9 +1,13 @@
 ### [0001] Queue - Simple Array Implementation
 
-Tags:
-- [Array](../02-array.md)
-- [Queue](../14-queue.md)
+##### `Task`
+Implement queue using array.
 
+##### `Tags`
+- [`Array`](../02-array.md)
+- [`Queue`](../14-queue.md)
+
+##### `Solution`
 ```java
 public class Queue {
     private int[] array;
@@ -41,3 +45,5 @@ public class Queue {
     }
 }
 ```
+- Time complexity: dequeue O(n), everything else O(1)
+- Space complexity: O(n)
