@@ -1,7 +1,3 @@
-### Branch and Bound Algorithm
+### `Branch and Bound Algorithm`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
-
-#### Basics
-#### Standard Problems
-#### 
+[`Back to Data Structures and Algorithms`](../readme.md)
