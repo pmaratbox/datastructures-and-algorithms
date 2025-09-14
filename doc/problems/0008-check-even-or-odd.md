@@ -6,8 +6,7 @@
 #### `Solution`
 ```java
 class Solution {
-    boolean isEven(int n)
-    {
+    boolean isEven(int n) {
         return n % 2 == 0;
     }
 }

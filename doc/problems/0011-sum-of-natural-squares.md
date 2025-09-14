@@ -1,9 +1,9 @@
 ### [0011] Sum of Squares of First n Natural Numbers
 
-Tags:
+#### `Tags`
 - [Basics](../01-basics.md)
 
-[Approach 1] - Adding One By One - O(n) Time and O(1) Space
+#### `Solution 1 - Adding One By One - O(n) Time and O(1) Space`
 ```java
 class Solution {
     int summation(int n)
@@ -17,12 +17,10 @@ class Solution {
 }
 ```
 
-[Approach 2] - Using Mathematical Formulae - O(1) Time and O(1) Space
+#### `Solution 2- Using Mathematical Formulae - O(1) Time and O(1) Space`
 ```java
-class Solution 
-{
-    int summation(int n)
-    {
+class Solution {
+    int summation(int n) {
         return (n * (n + 1) * (2 * n + 1)) / 6;
     }
 }
