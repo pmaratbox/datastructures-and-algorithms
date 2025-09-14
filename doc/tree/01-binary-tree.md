@@ -22,4 +22,3 @@
 * [`Easy => [0204] Level of a Node in Binary Tree`]()
 * [`Easy => [0205] Check for Complete Binary Tree`]()
 * [`Easy => [0206] Depth of a Full Binary Tree from Preorder`]()
-
