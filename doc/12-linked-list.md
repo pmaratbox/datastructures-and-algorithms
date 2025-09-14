@@ -1,9 +1,27 @@
-### Linked List
+### `Linked List`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
-#### Basics
-#### Operations
-#### Easy Problems
-#### Medium Problems
-#### Hard Problems
+* [`Basic => [0138] Singly Linked List`]()
+* [`Basic => [0139] Doubly Linked List`]()
+* [`Basic => [0140] Length of a Linked List`]()
+* [`Basic => [0141] Search an Element in a Linked List`]()
+* [`Basic => [0142] Insertion in Linked List`]()
+* [`Basic => [0143] Deletion at the beginning in a Linked List`]()
+* [`Basic => [0144] Deletion at the end in a Linked List`]()
+* [`Basic => [0145] Delete Node by Position`]()
+* [`Basic => [0146] Get nth node in a Linked List`]()
+* [`Basic => [0147] Get nth node from the end of a Linked List`]()
+* [`Basic => [0148] Find Size of Doubly Linked List`]()
+* [`Easy => [0149] Remove Every k-th Node of the Linked List`]()
+* [`Easy => [0150] Middle Node in a Linked List`]()
+* [`Easy => [0151] Count Occurrences in a Linked List`]()
+* [`Easy => [0152] Traversal of Circular Linked List`]()
+* [`Easy => [0153] Check If a Linked List is Circular Linked List`]()
+* [`Easy => [0154] Count Nodes in Circular Linked List`]()
+* [`Easy => [0155] Deletion from a Circular Linked List`]()
+* [`Easy => [0156] Convert Singly Linked List into Circular Linked List`]()
+* [`Easy => [0157] Exchange First and Last Nodes in Circular Linked List`]()
+* [`Easy => [0158] Deletion in a Doubly Linked List`]()
+* [`Easy => [0159] Reverse a Linked List`]()
+* [`Easy => [0160] Reverse a Doubly Linked List`]()
