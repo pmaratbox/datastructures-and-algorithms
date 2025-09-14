@@ -22,15 +22,15 @@ class Solution {
 #### `Solution 2 - Using Recursion`
 ```java
 class Solution {
-     int findSum(int n){
+     int findSumRecursively(int n){
         if (n==1) {
             return 1;
         }
         return n + findSum(n-1);
     }
     
-    int findSumRecursively(int n) {
-         int sum = findSum(n);
+    int findSumR(int n) {
+         int sum = findSumRecursively(n);
     }
 }
 ```

@@ -3,7 +3,7 @@
 #### `Tags`
 - [Basics](../01-basics.md)
 
-#### `Solution 1 - Adding One By One - O(n) Time and O(1) Space`
+#### `Solution 1 - Using Loop`
 ```java
 class Solution {
     int summation(int n)
@@ -16,8 +16,10 @@ class Solution {
     }
 }
 ```
+- Time complexity: O(n)
+- Space complexity: O(1)
 
-#### `Solution 2- Using Mathematical Formulae - O(1) Time and O(1) Space`
+#### `Solution 2 - Using Formula`
 ```java
 class Solution {
     int summation(int n) {
@@ -25,3 +27,5 @@ class Solution {
     }
 }
 ```
+- Time complexity: O(1)
+- Space complexity: O(1)
