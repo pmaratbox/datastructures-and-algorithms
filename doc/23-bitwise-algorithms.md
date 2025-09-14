@@ -1,9 +1,26 @@
-### Bitwise Algorithms
+### `Bitwise Algorithms`
 
-[_Back to Data Structures and Algorithms_](../readme.md)
+[`Back to Data Structures and Algorithms`](../readme.md)
 
-#### Basics
-#### Bit Manipulation Tips and Tricks
-#### Easy Problems
-#### Medium Problems
-#### Hard Problems
+* [`Basic => [0323] Basic Bit Operations`]()
+* [`Basic => [0324] Compute XOR from 1 to n (direct method)`]()
+* [`Basic => [0325] Check If a Number is a Power of 2`]()
+* [`Basic => [0326] The Quickest Way to Swap Two Numbers`]()
+* [`Basic => [0327] Finding the Most Significant Set Bit (MSB)`]()
+* [`Basic => [0328] Check If a Number Has Bits in an Alternate Pattern`]()
+* [`Basic => [0329] Set a Bit in the Number`]()
+* [`Basic => [0330] Unset a Bit in the Number`]()
+* [`Basic => [0331] Toggle a Bit in the Number`]()
+* [`Basic => [0332] Check a Bit in the Number`]()
+* [`Basic => [0333] Strip Off the Lowest Set Bit`]()
+* [`Basic => [0334] Get the Lowest Set Bit`]()
+* [`Easy => [0335] Binary Representation`]()
+* [`Easy => [0336] Turn Off the Rightmost Set Bit`]()
+* [`Easy => [0337] Modulus Division by 2's Power`]()
+* [`Easy => [0338] Odd Occurring Number`]()
+* [`Easy => [0339] Find Position of the Only Set Bit`]()
+* [`Easy => [0340] Add Two Bit Strings`]()
+* [`Easy => [0341] Check for Integer Overflow`]()
+* [`Easy => [0342] XOR without using XOR`]()
+* [`Easy => [0343] Check for Equal`]()
+* [`Easy => [0344] Russian Peasant`]()
