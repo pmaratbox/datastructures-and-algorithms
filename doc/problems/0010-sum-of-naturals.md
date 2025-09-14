@@ -2,6 +2,7 @@
 
 #### `Tags`
 - [Basics](../01-basics.md)
+- [Mathematical Algorithms](../27-mathematical-algorithms.md)
 
 #### `Solution 1 - Using Loop`
 ```java
